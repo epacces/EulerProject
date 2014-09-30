@@ -13,6 +13,8 @@
 		4813A03119D614B500612D04 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4813A03019D614B500612D04 /* Images.xcassets */; };
 		4813A03419D614B500612D04 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4813A03219D614B500612D04 /* LaunchScreen.xib */; };
 		4813A04019D614B500612D04 /* EulerProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4813A03F19D614B500612D04 /* EulerProjectTests.swift */; };
+		4813A04A19D614DA00612D04 /* Euler01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4813A04919D614DA00612D04 /* Euler01.swift */; };
+		4813A04C19D6275B00612D04 /* Euler02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4813A04B19D6275B00612D04 /* Euler02.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		4813A03919D614B500612D04 /* EulerProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EulerProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4813A03E19D614B500612D04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4813A03F19D614B500612D04 /* EulerProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EulerProjectTests.swift; sourceTree = "<group>"; };
+		4813A04919D614DA00612D04 /* Euler01.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Euler01.swift; sourceTree = "<group>"; };
+		4813A04B19D6275B00612D04 /* Euler02.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Euler02.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				4813A03019D614B500612D04 /* Images.xcassets */,
 				4813A03219D614B500612D04 /* LaunchScreen.xib */,
 				4813A02719D614B500612D04 /* Supporting Files */,
+				4813A04919D614DA00612D04 /* Euler01.swift */,
+				4813A04B19D6275B00612D04 /* Euler02.swift */,
 			);
 			path = EulerProject;
 			sourceTree = "<group>";
@@ -214,6 +220,8 @@
 			files = (
 				4813A02C19D614B500612D04 /* ViewController.swift in Sources */,
 				4813A02A19D614B500612D04 /* AppDelegate.swift in Sources */,
+				4813A04A19D614DA00612D04 /* Euler01.swift in Sources */,
+				4813A04C19D6275B00612D04 /* Euler02.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
